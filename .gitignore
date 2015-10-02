@@ -3,3 +3,8 @@
 ._*
 .DS_Store
 .directory
+build
+*.sh
+.cproject
+.project
+.settings
